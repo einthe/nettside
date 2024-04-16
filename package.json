@@ -1,7 +1,7 @@
 {
   "name": "homepage",
   "version": "0.1.0",
-  "homepage": "https://therk.no",
+  "homepage": "https://gitname.github.io/nettside",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
