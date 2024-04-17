@@ -1,7 +1,7 @@
 {
   "name": "homepage",
   "version": "0.1.0",
-  "homepage": "http://einthe.github.io/nettside",
+  "homepage": "https://einthe.github.io/nettside",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
